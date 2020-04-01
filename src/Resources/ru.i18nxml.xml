@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<dictionary>
+  
+  <phrase><orig>Options</orig><new>Настройки</new></phrase>
+  <phrase><orig>Hot Keys</orig><new>Горячие клавиши</new></phrase>
+  <phrase><orig>Check updates</orig><new>Проверить обновления</new></phrase>
+  <phrase><orig>About</orig><new>О программе</new></phrase>
+  
+  <phrase><orig>Articles</orig><new>Статьи:</new></phrase>
+  <phrase><orig>Revs:    </orig><new>Правки</new></phrase>
+  <phrase><orig>Stream configuration</orig><new>Настройки потока</new></phrase>
+  <phrase><orig>Back</orig><new>Назад</new></phrase>
+  <phrase><orig>Skip</orig><new>Пропустить</new></phrase>
+  <phrase><orig>Review</orig><new>Отпатрулировать</new></phrase>
+  <phrase><orig>Unreview</orig><new>Снять отметку</new></phrase>
+  <phrase><orig>Revert changes</orig><new>Откатить изменения</new></phrase>
+  <phrase><orig>Cancel (with custom summary)</orig><new>Отменить (возможность ввода комментария)</new></phrase>
+  <phrase><orig>Show information about the editors</orig><new>Показать информацию о редактировавших</new></phrase>
+  <phrase><orig>Edit page</orig><new>Редактировать страницу</new></phrase>
+  <phrase><orig>Show source code (difference)</orig><new>Показывать диффы/текст</new></phrase>
+  <phrase><orig>Show parsed page</orig><new>Показывать сгенерированную страницу</new></phrase>
+  <phrase><orig>Pass stable version to your browser</orig><new>Открыть в браузере стабильную версию</new></phrase>
+  <phrase><orig>Pass current version to your browser</orig><new>Открыть страницу в браузере</new></phrase>
+  <phrase><orig>Pass the difference page to your browser</orig><new>Открыть дифф в браузере</new></phrase>
+  <phrase><orig>Open this page's history in your browser</orig><new>Открыть историю страницы в браузере</new></phrase>
+  <phrase><orig>Edit this page in your browser</orig><new>Отредактировать в Википедии</new></phrase>
+  <phrase><orig>Restart the stream</orig><new>Перезапустить поток данных</new></phrase>
+
+  <phrase><orig>To the previous difference</orig><new>К предыдущей разнице</new></phrase>
+  <phrase><orig>To the following difference</orig><new>К следующей разница</new></phrase>
+  <phrase><orig>Take grouping into account</orig><new>Учитывать группировку</new></phrase>
+  
+  <phrase><orig>Source text</orig><new>Исходный текст</new></phrase>
+  <phrase><orig>Parsed revision</orig><new>Обработанная версия</new></phrase>
+  <phrase><orig>Restore this revision and review it</orig><new>Вернуться к этой версии и отпатрулировать</new></phrase>
+  <phrase><orig>Unreview the selected changes</orig><new>Распатрулировать выбранные изменения</new></phrase>
+  <phrase><orig>Review the selected changes</orig><new>Отпатрулировать выбранные изменения</new></phrase>
+  
+  <phrase><orig>You can't step back!</orig><new>Назад шагнуть нельзя!</new></phrase>
+  <phrase><orig>You dont have an 'editor' flag!</orig><new>У вас нет прав патрулирующего!</new></phrase>
+</dictionary>

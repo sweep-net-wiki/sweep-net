@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<dictionary>
+  <!-- !!! -->
+  <entry>
+    <name>LANGUAGE_0</name>
+    <value>English language</value>
+  </entry>
+  <entry>
+    <name>LANGUAGE_1</name>
+    <value>English</value>
+  </entry>
+  <entry>
+    <name>LANGUAGE_2</name>
+    <value>English language</value>
+  </entry>
+  <entry>
+    <name>LANGUAGE_3</name>
+    <value>English</value>
+  </entry>
+
+  <entry>
+    <name>ROLLBACK_SUMMARY</name>
+    <value>Reverting edits and returning to {0} ([[Project:Sweep-Net|Sweep-Net]])</value>
+  </entry>
+  <entry>
+    <name>REVIEW_SUMMARY</name>
+    <value>[[Project:{0}|{0}]] {1}</value>
+  </entry>
+</dictionary>

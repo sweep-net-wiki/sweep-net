@@ -1,0 +1,66 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="sweepnet.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="i1" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="i2" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="fs" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="m" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="m1" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="m2" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ns" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0|6|10|14</Value>
+    </Setting>
+    <Setting Name="diffl" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="art" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="redir" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="final" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="dir" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="options_n" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="options_v" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="config_n" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="config_v" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="add_url3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://als.wikipedia.org/|https://ar.wikipedia.org/|https://be.wikipedia.org/|https://bs.wikipedia.org/|https://de.wikipedia.org/|https://de.wikiquote.org/|https://eo.wikipedia.org/|https://hu.wikipedia.org/|https://ia.wikipedia.org/|https://id.wikipedia.org/|https://mk.wikipedia.org/|https://pl.wikipedia.org/|https://pl.wikisource.org/|https://ru.wikipedia.org/|https://ru.wikiquote.org/|https://ru.wikisource.org/|https://sq.wikipedia.org/|https://tr.wikipedia.org/|https://uk.wikipedia.org/|https://zh-classical.wikipedia.org/</Value>
+    </Setting>
+    <Setting Name="add_names3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">als.wiki|ar.wiki|be.wiki|bs.wiki|de.wiki|de.wikiquote|eo.wiki|hu.wiki|ia.wiki|id.wiki|mk.wiki|pl.wiki|pl.wikisource|ru.wiki|ru.wikiquote|ru.wikisource|sq.wiki|tr.wiki|uk.wiki|zh-classical.wiki</Value>
+    </Setting>
+    <Setting Name="add_customreviewsummaries" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-8" ?&gt;</Value>
+    </Setting>
+    <Setting Name="add_customrollbacksummaries" Type="System.String" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-8" ?&gt;</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

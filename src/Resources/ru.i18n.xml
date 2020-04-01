@@ -1,0 +1,233 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<dictionary>
+  <!-- !!! -->
+  <entry><name>LANGUAGE_0</name><value>Русский язык</value></entry>
+  <entry><name>LANGUAGE_1</name><value>Русский</value></entry>
+  <entry><name>LANGUAGE_2</name><value>Russian language</value></entry>
+  <entry><name>LANGUAGE_3</name><value>Russian</value></entry>
+  
+  <entry><name>ROLLBACK_SUMMARY</name><value>Отклонение правок и возврат к версии {0} ([[Project:Sweep-Net|Sweep-Net]])</value></entry>
+  <entry><name>REVIEW_SUMMARY</name><value>[[Project:{0}|{0}]] {1}</value></entry>
+  
+  <!-- COMMON PHRASES-->
+  <phrase><orig>Save</orig><new>Сохранить</new></phrase>
+  <phrase><orig>Close</orig><new>Закрыть</new></phrase>
+  <phrase><orig>Warning</orig><new>Предупреждение</new></phrase>
+  <phrase><orig>Error</orig><new>Ошибка</new></phrase>
+  <phrase><orig>Result</orig><new>Результат</new></phrase>
+  <phrase><orig>Version</orig><new>Версия</new></phrase>
+  
+  <!-- MAIN FORM -->
+  <phrase><orig>Options</orig><new>Настройки</new></phrase>
+  <phrase><orig>Hot Keys</orig><new>Горячие клавиши</new></phrase>
+  <phrase><orig>Check updates</orig><new>Проверить обновления</new></phrase>
+  <phrase><orig>About</orig><new>О программе</new></phrase>
+  
+  <phrase><orig>Articles</orig><new>Статьи:</new></phrase>
+  <phrase><orig>Revs:    </orig><new>Правки</new></phrase>
+  <phrase><orig>Stream configuration</orig><new>Настройки потока</new></phrase>
+  <phrase><orig>Back</orig><new>Назад</new></phrase>
+  <phrase><orig>Skip</orig><new>Пропустить</new></phrase>
+  <phrase><orig>Review</orig><new>Отпатрулировать</new></phrase>
+  <phrase><orig>Unreview</orig><new>Снять отметку</new></phrase>
+  <phrase><orig>Revert changes</orig><new>Откатить изменения</new></phrase>
+  <phrase><orig>Cancel (with custom summary)</orig><new>Отменить (возможность ввода комментария)</new></phrase>
+  <phrase><orig>Show information about the editors</orig><new>Показать информацию о редактировавших</new></phrase>
+  <phrase><orig>Edit page</orig><new>Редактировать страницу</new></phrase>
+  <phrase><orig>Show source code (difference)</orig><new>Показывать диффы/текст</new></phrase>
+  <phrase><orig>Show parsed page</orig><new>Показывать сгенерированную страницу</new></phrase>
+  <phrase><orig>Pass stable version to your browser</orig><new>Открыть в браузере стабильную версию</new></phrase>
+  <phrase><orig>Pass current version to your browser</orig><new>Открыть страницу в браузере</new></phrase>
+  <phrase><orig>Pass the difference page to your browser</orig><new>Открыть дифф в браузере</new></phrase>
+  <phrase><orig>Open this page's history in your browser</orig><new>Открыть историю страницы в браузере</new></phrase>
+  <phrase><orig>Edit this page in your browser</orig><new>Отредактировать в браузере</new></phrase>
+  <phrase><orig>Restart the stream</orig><new>Перезапустить поток данных</new></phrase>
+
+  <phrase><orig>To the previous difference</orig><new>К предыдущей разнице</new></phrase>
+  <phrase><orig>To the following difference</orig><new>К следующей разнице</new></phrase>
+  <phrase><orig>Take grouping into account</orig><new>Учитывать группировку</new></phrase>
+  <phrase><orig>Enable pro mode</orig><new>Перейти в проф. режим</new></phrase>
+  <phrase><orig>Disable pro mode</orig><new>Выйти из проф. режима</new></phrase>
+  
+  <phrase><orig>Source text</orig><new>Исходный текст</new></phrase>
+  <phrase><orig>Parsed revision</orig><new>Обработанная версия</new></phrase>
+  <phrase><orig>Restore this revision and review it</orig><new>Вернуться к этой версии и отпатрулировать</new></phrase>
+  <phrase><orig>Unreview the selected changes</orig><new>Распатрулировать выбранные изменения</new></phrase>
+  <phrase><orig>Review the selected changes</orig><new>Отпатрулировать выбранные изменения</new></phrase>
+  
+  <phrase><orig>You can't step back!</orig><new>Назад шагнуть нельзя!</new></phrase>
+  <phrase><orig>You can't step forward!</orig><new>Вперед шагнуть нельзя!</new></phrase>
+  <phrase><orig>You dont have an 'editor' flag!</orig><new>У вас нет прав патрулирующего!</new></phrase>
+
+  <phrase><orig>Updating..</orig><new>Обновление..</new></phrase>
+  <phrase><orig>Wrong login or password!</orig><new>Введите верные данные!</new></phrase>
+  <phrase><orig>Updated</orig><new>Обновление завершено</new></phrase>
+  <phrase><orig>No data</orig><new>Нет подходящих данных</new></phrase>
+  <phrase><orig>An error occured whlie updating the list! Restart it.</orig><new>Ошибка обновления списка! Перезапустите</new></phrase>
+  <phrase><orig>We've run out of available articles! It is time to change the stream settings.</orig><new>Данные для патрулирования закончились! Измените настройки потока!</new></phrase>
+  <phrase><orig>The list is not yet completely fetched! Wait</orig><new>Список еще не успел загрузиться! Подождите</new></phrase>
+  <phrase><orig>We've run out of available data! Wait for a while and restart the stream.</orig><new>Пока нет данных для потока! Подождите некоторое время и перезапустите поток.</new></phrase>
+  <phrase><orig>The changes have been reverted.</orig><new>Правки отклонены</new></phrase>
+  <phrase><orig>Page: {0};      Changes: {1} bytes</orig><new>Страница: {0};       Изменения: {1} байт</new></phrase>
+  <phrase><orig>Unreviewed</orig><new>Отметка снята</new></phrase>
+  <phrase><orig>Due to an exception the "{0}" page has not been reviewed. Dou you want to open it in a web browser?</orig><new>Из-за возникшего исключения не удалось отпатрулировать страницу "{0}"! Открыть ее в браузере?</new></phrase>
+  <phrase><orig>Do you really want to restore that revision as current?</orig><new>Вы действительно хотите вернуть страницу к этой версии?</new></phrase>
+  <phrase><orig>Error. Check, may be the pending changes have been made only by anonymous editors.</orig><new>Ошибка. Возможно, все непроверенные правки этой статьи были сделаны анонимными пользователями.</new></phrase>
+
+  <!-- HOT KEYS FORM -->
+  <phrase><orig>Review the changes: </orig><new>Отпатрулировать: </new></phrase>
+  <phrase><orig>Switch to the next page: </orig><new>Следующая страница: </new></phrase>
+  <phrase><orig>Rollback the changes: </orig><new>Откатить изменения: </new></phrase>
+  <phrase><orig>Scroll: </orig><new>Прокрутить разницу версий: </new></phrase>
+  <phrase><orig>Fetch information about the editors: </orig><new>Информация об авторах правок: </new></phrase>
+  
+  <!-- CANCEL FORM -->
+  <phrase><orig>Undo the edit</orig><new>Отменить правку</new></phrase>
+  <phrase><orig>Undid revision {0} by {1}:</orig><new>Отмена правки {0} участника {1}:</new></phrase>
+  <phrase><orig>Restoring revision {0}:</orig><new>Возвращение к версии {0}:</new></phrase>
+  
+  <!-- EDITOR FORM-->
+  <phrase><orig>Editor</orig><new>Редактор</new></phrase>
+  <phrase><orig>Line</orig><new>К строке</new></phrase>
+  <phrase><orig>Go</orig><new>Перейти</new></phrase>
+  <phrase><orig>Minor?</orig><new>Малая?</new></phrase>
+  <phrase><orig>Review it</orig><new>Отпатрулировать</new></phrase>
+  <phrase><orig>It must be a number!</orig><new>Введите число!</new></phrase>
+  <phrase><orig>Out of limits!</orig><new>Выходит за рамки!</new></phrase>
+  <phrase><orig>Error while loading!</orig><new>Сбой при загрузке!</new></phrase>
+  <phrase><orig>Summary is longer than it should be!</orig><new>Слишком длинный комментарий!</new></phrase>
+  <phrase><orig>You are not supposed to clear the text!</orig><new>Вы не должны удалять все содержимое статьи!</new></phrase>
+  <phrase><orig>Error occured while applying the changes: </orig><new>Ошибка при редактировании: </new></phrase>
+  
+  <!-- LIST OF PROJECTS FORM -->
+  <phrase><orig>List of projects</orig><new>Список проектов</new></phrase>
+  <phrase><orig>Remove the entry</orig><new>Удалить выбранную строку</new></phrase>
+  <phrase><orig>Name (to be shown in the list)</orig><new>Название (для списка)</new></phrase>
+  <phrase><orig>URL for API requests (example)</orig><new>URL для api-запросов (пример)</new></phrase>
+  <phrase><orig>There must be no duplicated names!</orig><new>Названия не должны повторяться!</new></phrase>
+  <phrase><orig>Do you really want to remove this entry?</orig><new>Вы действительно хотите удалить эту строку?</new></phrase>
+  
+  <!-- AUTH FORM-->
+  <phrase><orig>Enter your login and password</orig><new>Введите свой логин и пароль</new></phrase>
+  <phrase><orig>Authorization</orig><new>Авторизация</new></phrase>
+  <phrase><orig>Language</orig><new>Язык</new></phrase>
+  <phrase><orig>Remember password</orig><new>Запомнить пароль</new></phrase>
+  <phrase><orig>Authorize</orig><new>Авторизоваться</new></phrase>
+  <phrase><orig>Choose project!</orig><new>Выберите проект!</new></phrase>
+  <phrase><orig>Check your login and password!</orig><new>Перепроверьте данные!</new></phrase>
+
+  <!-- SETTINGS FORM -->
+  <phrase><orig>Settings</orig><new>Настройки программы</new></phrase>
+  <phrase><orig>Common</orig><new>Общие</new></phrase>
+  <phrase><orig>Detailed</orig><new>Детальные</new></phrase>
+  <phrase><orig>Pro mode</orig><new>Проф. режим</new></phrase>
+  <phrase><orig>Default</orig><new>Вернуть стандартные</new></phrase>
+  
+  <phrase><orig>Updates</orig><new>Обновления</new></phrase>
+  <phrase><orig>Real-time changes</orig><new>Мониторинг свежих</new></phrase>
+  <phrase><orig>Pages</orig><new>Статьи</new></phrase>
+  <phrase><orig>Check updates every launch</orig><new>Проверять обновления при запуске</new></phrase>
+  <phrase><orig>Grant the ability to check the existence of pages</orig><new>Предоставлять возможность проверки страниц на существование</new></phrase>
+  <phrase><orig>Authomatically scroll page to the first difference</orig><new>Автоматически прокручивать страницу до изменений</new></phrase>
+  <phrase><orig>Control the state of </orig><new>Обновлять/следить за последними</new></phrase>
+  <phrase><orig>recent edits</orig><new>правками</new></phrase>
+  <phrase><orig>Diff style</orig><new>Оформление диффа</new></phrase>
+  <phrase><orig>New///Old</orig><new>Новое///Старое</new></phrase>
+  
+  <phrase><orig>Reviewing</orig><new>Патрулирование</new></phrase>
+  <phrase><orig>Buffers</orig><new>Настройки буферов</new></phrase>
+  <phrase><orig>Skip articles with no difference between current and stable versions</orig><new>Пропускать статьи с нулевой разницей между стабильной и текущей</new></phrase>
+  <phrase><orig>Apply only to this project</orig><new>Использовать только для этого проекта</new></phrase>
+  <phrase><orig>Custom review summary (leave empty if you want to use the default one)</orig><new>Собственный комментарий к при патрулировании (оставьте поле пустым, если желаете\r\n использовать стандартный для выбранного языка)</new></phrase>
+  <phrase><orig>Custom reject summary (similarly; {0} stands for the revision number)</orig><new>Собственный комментарий к отклонению правки (аналогично)\r\n{0} - версия, к которой осуществляется возврат</new></phrase>
+  <phrase><orig>Preload data for</orig><new>Предзагружать данные для</new></phrase>
+  <phrase><orig>In real-time changes mode preload for</orig><new>В режиме мониторинга свежих для</new></phrase>
+  <phrase><orig>Preload differences for</orig><new>Предзагружать диффы для</new></phrase>
+  <phrase><orig>articles</orig><new>статей</new></phrase>
+  <phrase><orig>Revision list</orig><new>Список версий</new></phrase>
+  <phrase><orig>Delay between choosing revisions and displaying difference</orig><new>Задержка после выбора правок для показа их разницы</new></phrase>
+  <phrase><orig>(ms, 1s = 1000ms)</orig><new>(в мс, 1 с = 1000 мс)</new></phrase>
+  
+  <phrase><orig>Check the preloading data buffer size!</orig><new>Неверно введен размер буфера для предзагрузки данных!</new></phrase>
+  <phrase><orig>Check the size of real-time changes buffer!</orig><new>Неверно введен размер буфера для предзагрузки данных для мониторинга свежих!</new></phrase>
+  <phrase><orig>Check the size of diffs buffer!</orig><new>Неверно введен размер буфера для предзагрузки диффов!</new></phrase>
+  <phrase><orig>Check the recent changes number!</orig><new>Неверно введено количество "свежих" правок!</new></phrase>
+  <phrase><orig>Your custom summary is too long!</orig><new>Слишком длинный пользовательский комментарий!</new></phrase>
+  <phrase><orig>Check the delay length number!</orig><new>Неверно введен размер задержки после выбора правок!</new></phrase>
+  
+  <!-- STREAM CONFIGURATION FORM -->
+  <phrase><orig>Stream configuration</orig><new>Настройки потока правок</new></phrase>
+  <phrase><orig>Authomatically switch to the pro mode when needed</orig><new>В сложных случаях переходить в профессиональный режим</new></phrase>  
+  <phrase><orig>Namespaces</orig><new>Пространства имен</new></phrase>
+  <phrase><orig>Page types</orig><new>Типы страниц</new></phrase>
+  <phrase><orig>Maximum diff size</orig><new>Максимальный размер диффа</new></phrase>
+  <phrase><orig>(bytes; 0 - unlimited)</orig><new>(байты; 0 - неограничен)</new></phrase>
+  <phrase><orig>Work with</orig><new>Работать со</new></phrase>
+  <phrase><orig>Direction</orig><new>Направление</new></phrase>
+  
+  <phrase><orig>Main///File///Template///Category</orig><new>Основное///Файл///Шаблоны///Категории</new></phrase>
+  <phrase><orig>Articles///Redirects</orig><new>Обычные///Перенаправления</new></phrase>
+  <phrase><orig>Pages///Differences</orig><new>Страницами///Диффами</new></phrase>
+  <phrase><orig>Older///Newer///Auto</orig><new>К старейшим///К новейшим///Авто</new></phrase>
+  
+  <phrase><orig>Real-time changes///Pending pages///Unreviewed pages///Data from a list///User's contribution</orig><new>Мониторинг свежих правок///Устаревшие статьи///Непроверенные статьи///Работа со списком///По вкладу пользователя</new></phrase>
+  
+  <phrase><orig>In this mode you can check real-time changes being made in the chosen wiki project.\r\nYou can configure your stream in the boxes to the right of this text.\r\nSome other options can be found in the settings form.</orig><new>Этот режим позволяет в реальном времени отслеживать все изменения страниц.\r\nНастроить объем данных для работы вы можете в настройках программы.\r\nВыбрать параметры потока правок можно в колонке настроек справа.</new></phrase>
+  
+  <phrase><orig>How to choose data</orig><new>Как выбирать данные</new></phrase>
+  <phrase><orig>The most recent changes</orig><new>Начиная с самых свежих</new></phrase>  
+  <phrase><orig>Starting from a date (UTC)</orig><new>Начиная с даты (UTC)</new></phrase>
+  <phrase><orig>dd.mm.yyyy (hh:mm:ss)</orig><new>дд.мм.гггг (чч:мм:сс)</new></phrase>
+  <phrase><orig>Starting from a random position</orig><new>Со случайной позиции</new></phrase>
+  <phrase><orig>The oldest changes</orig><new>Начиная с самых старых</new></phrase>
+  <phrase><orig>From your watchlist</orig><new>Из списка наблюдения</new></phrase>
+  <phrase><orig>Category</orig><new>Категория</new></phrase>
+  <phrase><orig>(without the "Category:" prefix)</orig><new>(приставка Категория: не нужна)</new></phrase>
+  <phrase><orig>Pending pages are those which were once revieved but since then they have been modificated\r\nand need to be reviewed again.</orig><new>Устаревшими называются статьи, которые уже были когда-то отпатрулированы,\r\nно их последняя версия не является проверенной</new></phrase>
+  
+  <phrase><orig>Alphabetically</orig><new>С начала алфавита</new></phrase>
+  <phrase><orig>Starting from</orig><new>Начиная с</new></phrase>
+  <phrase><orig>(prefixes are allowed)</orig><new>(можно префикс)</new></phrase>
+  <phrase><orig>Enter a list of pages you want to work with (page per line).</orig><new>Построчно введите список статей, с которыми хотите работать</new></phrase>
+  
+  <phrase><orig>(without the "User:" prefix)</orig><new>(без префикса, только имя)</new></phrase>
+  <phrase><orig>Full contribution</orig><new>По всему вкладу</new></phrase>  
+  <phrase><orig>Beware that in this mode you would have to deal with ARTICLES from user's contribution!\r\nIt means that you'd probably have to review other changes in those articles as well.</orig><new>Внимание! Данный режим работает со стятьми из вклада пользователя.\r\nЭто значит, что проверять будет нужно все непроверенные правки в \r\nстатьях, в число которых входят правки указанного участника</new></phrase>
+  
+  <phrase><orig>Choose at least one namespace!</orig><new>Выберите хоть одно пространство имен!</new></phrase>
+  <phrase><orig>Choose at least one page type!</orig><new>Выберите хоть один тип страниц!</new></phrase>
+  <phrase><orig>Check the diff size!</orig><new>Максимальный размер диффа введен неверно!</new></phrase>
+  <phrase><orig>Choose what you want to work with!</orig><new>Выберите то, с чем хотите работать!</new></phrase>
+  <phrase><orig>You haven't chosen a mode!</orig><new>Выберите режим!</new></phrase>
+  <phrase><orig>Incorrect date!</orig><new>Неверно введена дата!</new></phrase>
+  <phrase><orig>Incorrect category!</orig><new>Неверно введена категория!</new></phrase>
+  <phrase><orig>Incorrect page name!</orig><new>Неверно введено имя страницы!</new></phrase>
+  <phrase><orig>The list is empty!</orig><new>Список пуст!</new></phrase>
+  <phrase><orig>Incorrect user!</orig><new>Неверно введен пользователь!</new></phrase>
+  
+  <!-- OTHER STUFF-->
+  <phrase><orig>Check the existence</orig><new>Проверить на существование</new></phrase>
+  <phrase><orig>file "{0}" exists</orig><new>файл "{0}" существует</new></phrase>
+  <phrase><orig>file "{0}" does not exist</orig>файл "{0}" не существует<new></new></phrase>
+  <phrase><orig>page "{0}" exists</orig><new>страница "{0}" существует</new></phrase>
+  <phrase><orig>page "{0}" does not exist</orig><new>страница "{0}" не существует</new></phrase>
+
+  <phrase><orig>{0} edits have been made by: {1}</orig><new>Правки {0} сделали: {1}</new></phrase>
+  <phrase><orig>Summary</orig><new>Комментарий к правке</new></phrase>
+  <phrase><orig>Stable revision</orig><new>Стабильная версия</new></phrase>
+  <phrase><orig>First revision</orig><new>Первая версия</new></phrase>
+  <phrase><orig>No noticeable changes</orig><new>Видимых изменений нет</new></phrase>
+  <phrase><orig>These revisions are the same</orig><new>Различий между версиями нет</new></phrase>
+  
+  <phrase><orig>Due to internal errors the application did not manage to apply the changes you've made.</orig><new>Из-за возникшей ошибки (вероятно, конфликт редактирования) программа не смогла применить ваши изменения.</new></phrase>
+  <phrase><orig>Enter a summary</orig><new>Введите описание правки</new></phrase>
+  <phrase><orig>Minor change?</orig><new>Малое изменение?</new></phrase>
+  <phrase><orig>Apply changes</orig><new>Сохранить страницу</new></phrase>
+  <phrase><orig>Wait.. applying changes..</orig><new>Ждите.. загрузка изменений на сервер</new></phrase>
+  <phrase><orig>The changes have been successfully applied! You can now review the page.</orig><new>Страница успешно сохранена! Можете теперь отпатрулировать ее.</new></phrase>
+
+  <phrase><orig>Error occured while reviewing "{0}"</orig><new>Произошла ошибка при попытке отпатрулировать страницу "{0}"</new></phrase>
+  
+  <phrase><orig>An update is available!</orig><new>Доступно обновление!</new></phrase>
+  <phrase><orig>The update will be authomatically downloaded and applied.</orig><new>Оно будет загружено и установлено автоматически.</new></phrase>
+</dictionary>

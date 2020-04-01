@@ -1,0 +1,233 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<dictionary>
+  <!-- !!! -->
+  <entry><name>LANGUAGE_0</name><value>Українська мова</value></entry>
+  <entry><name>LANGUAGE_1</name><value>Українська</value></entry>
+  <entry><name>LANGUAGE_2</name><value>Ukrainian language</value></entry>
+  <entry><name>LANGUAGE_3</name><value>Ukrainian</value></entry>
+  
+  <entry><name>ROLLBACK_SUMMARY</name><value>Відкіт редагувань і повернення до версії {0} ([[Project:Sweep-Net|Sweep-Net]])</value></entry>
+  <entry><name>REVIEW_SUMMARY</name><value>[[Project:{0}|{0}]] {1}</value></entry>
+  
+  <!-- COMMON PHRASES-->
+  <phrase><orig>Save</orig><new>Зберегти</new></phrase>
+  <phrase><orig>Close</orig><new>Закрити</new></phrase>
+  <phrase><orig>Warning</orig><new>Попередження</new></phrase>
+  <phrase><orig>Error</orig><new>Помилка</new></phrase>
+  <phrase><orig>Result</orig><new>Результат</new></phrase>
+  <phrase><orig>Version</orig><new>Версія</new></phrase>
+  
+  <!-- MAIN FORM -->
+  <phrase><orig>Options</orig><new>Налаштування</new></phrase>
+  <phrase><orig>Hot Keys</orig><new>Гарячі клавіші</new></phrase>
+  <phrase><orig>Check updates</orig><new>Перевірити оновлення</new></phrase>
+  <phrase><orig>About</orig><new>Про програму</new></phrase>
+  
+  <phrase><orig>Pages</orig><new>Сторінки:</new></phrase>
+  <phrase><orig>Revs:    </orig><new>Правки:</new></phrase>
+  <phrase><orig>Stream configuration</orig><new>Налаштування потоку</new></phrase>
+  <phrase><orig>Back</orig><new>Назад</new></phrase>
+  <phrase><orig>Skip</orig><new>Пропустити</new></phrase>
+  <phrase><orig>Review</orig><new>Відпатрулювати</new></phrase>
+  <phrase><orig>Unreview</orig><new>Зняти мітку</new></phrase>
+  <phrase><orig>Revert changes</orig><new>Відкинути зміни</new></phrase>
+  <phrase><orig>Cancel (with custom summary)</orig><new>Скасувати (можливість вводу опису)</new></phrase>
+  <phrase><orig>Show information about the editors</orig><new>Показати інформацію про редакторів</new></phrase>
+  <phrase><orig>Edit page</orig><new>Редагувати сторінку</new></phrase>
+  <phrase><orig>Show source code (difference)</orig><new>Показувати дифи/текст</new></phrase>
+  <phrase><orig>Show parsed page</orig><new>Показувати згенеровану сторінку</new></phrase>
+  <phrase><orig>Pass stable version to your browser</orig><new>Відкрити стабільну версію в браузері</new></phrase>
+  <phrase><orig>Pass current version to your browser</orig><new>Відкрити сторінку в браузері</new></phrase>
+  <phrase><orig>Pass the difference page to your browser</orig><new>Відкрити диф у браузері</new></phrase>
+  <phrase><orig>Open this page's history in your browser</orig><new>Відкрити історію сторінки в браузері</new></phrase>
+  <phrase><orig>Edit this page in your browser</orig><new>Редагувати цю сторінку в браузері</new></phrase>
+  <phrase><orig>Restart the stream</orig><new>Перезапустити поток даних</new></phrase>
+
+  <phrase><orig>To the previous difference</orig><new>До попередньої різниці</new></phrase>
+  <phrase><orig>To the following difference</orig><new>До наступної різниці</new></phrase>
+  <phrase><orig>Take grouping into account</orig><new>Враховувати групуваня</new></phrase>
+  <phrase><orig>Enable pro mode</orig><new>Перейти в проф. режим</new></phrase>
+  <phrase><orig>Disable pro mode</orig><new>Вийти з проф. режиму</new></phrase>
+  
+  <phrase><orig>Source text</orig><new>Вихідний текст</new></phrase>
+  <phrase><orig>Parsed revision</orig><new>Оброблена версія</new></phrase>
+  <phrase><orig>Restore this revision and review it</orig><new>Повернутися до цієї версії й відпатрулювати</new></phrase>
+  <phrase><orig>Unreview the selected changes</orig><new>Розпатрулювати вибрані зміни</new></phrase>
+  <phrase><orig>Review the selected changes</orig><new>Відпатрулювати вибрані зміни</new></phrase>
+  
+  <phrase><orig>You can't step back!</orig><new>Кроку назад немає!</new></phrase>
+  <phrase><orig>You can't step forward!</orig><new>Кроку вперід немає!</new></phrase>
+  <phrase><orig>You dont have an 'editor' flag!</orig><new>У Вас немає прапорця редактора!</new></phrase>
+
+  <phrase><orig>Updating..</orig><new>Оновлення..</new></phrase>
+  <phrase><orig>Wrong login or password!</orig><new>Введіть правильні дані!</new></phrase>
+  <phrase><orig>Updated</orig><new>Оновлення завершено</new></phrase>
+  <phrase><orig>No data</orig><new>Немає підходящих даних</new></phrase>
+  <phrase><orig>An error occured whlie updating the list! Restart it.</orig><new>Помилка оновлення списку! Перезапустіть</new></phrase>
+  <phrase><orig>We've run out of available articles! It is time to change the stream settings.</orig><new>Дані для патрулювання скінчились! Змініть налаштування потоку!</new></phrase>
+  <phrase><orig>The list is not yet completely fetched! Wait</orig><new>Список ще не встиг завантажитись! Зачекайте</new></phrase>
+  <phrase><orig>We've run out of available data! Wait for a while and restart the stream.</orig><new>Поки немає даних для потоку! Зачекайте деякий час та перезапустіть потік.</new></phrase>
+  <phrase><orig>The changes have been reverted.</orig><new>Редагування відхилено</new></phrase>
+  <phrase><orig>Page: {0};      Changes: {1} bytes</orig><new>Стаття: {0};       Зміни: {1} байт</new></phrase>
+  <phrase><orig>Unreviewed</orig><new>Мітку знято</new></phrase>
+  <phrase><orig>Due to an exception the "{0}" page has not been reviewed. Dou you want to open it in a web browser?</orig><new>Через виняток, що виник не вдалось відпатрулювати сторінку «{0}»! Відкрити її у браузері?</new></phrase>
+  <phrase><orig>Do you really want to restore that revision as current?</orig><new>Ви дійсно хочете повенути сторінку до цієї версії?</new></phrase>
+  <phrase><orig>Error. Check, may be the pending changes have been made only by anonymous editors.</orig><new>Помилка. Можливо, всі неперевірені правки цієї статті було зроблено анонімними користувачами.</new></phrase>
+  
+  <!-- HOT KEYS FORM -->
+  <phrase><orig>Review the changes: </orig><new>Відпатрулювати: </new></phrase>
+  <phrase><orig>Switch to the next page: </orig><new>Наступна сторінка: </new></phrase>
+  <phrase><orig>Rollback the changes: </orig><new>Відкинути зміни: </new></phrase>
+  <phrase><orig>Scroll: </orig><new>Прокрутити різницю версій: </new></phrase>
+  <phrase><orig>Fetch information about the editors: </orig><new>Інформація про авторів редагувань: </new></phrase>
+  
+  <!-- CANCEL FORM -->
+  <phrase><orig>Undo the edit</orig><new>Скасувати правку</new></phrase>
+  <phrase><orig>Undid revision {0} by {1}:</orig><new>Скасування правки {0} користувача {1}:</new></phrase>
+  <phrase><orig>Restoring revision {0}:</orig><new>Повернення до версії {0}:</new></phrase>
+  
+  <!-- EDITOR FORM-->
+  <phrase><orig>Editor</orig><new>Редактор</new></phrase>
+  <phrase><orig>Line</orig><new>До рядка</new></phrase>
+  <phrase><orig>Go</orig><new>Перейти</new></phrase>
+  <phrase><orig>Minor?</orig><new>Незначна</new></phrase>
+  <phrase><orig>Review it</orig><new>Відпатрулювати</new></phrase>
+  <phrase><orig>It must be a number!</orig><new>Введіть число!</new></phrase>
+  <phrase><orig>Out of limits!</orig><new>Виходить за межі!</new></phrase>
+  <phrase><orig>Error while loading!</orig><new>Збій при завантаженні!</new></phrase>
+  <phrase><orig>Summary is longer than it should be!</orig><new>Занадто довгий опис!</new></phrase>
+  <phrase><orig>You are not supposed to clear the text!</orig><new>Ви не повинні вилучати весь вміст сторінки!</new></phrase>
+  <phrase><orig>Error occured while applying the changes: </orig><new>Помилка при редагуванні: </new></phrase>
+  
+  <!-- LIST OF PROJECTS FORM -->
+  <phrase><orig>List of projects</orig><new>Список проектів</new></phrase>
+  <phrase><orig>Remove the entry</orig><new>Вилучити вибраний рядок</new></phrase>
+  <phrase><orig>Name (to be shown in the list)</orig><new>Назва (для списка)</new></phrase>
+  <phrase><orig>URL for API requests (example)</orig><new>URL для API-запитів (приклад)</new></phrase>
+  <phrase><orig>There must be no duplicated names!</orig><new>Назви не повинні повторюватись!</new></phrase>
+  <phrase><orig>Do you really want to remove this entry?</orig><new>Ви дійсно хочете вилучити цей рядок?</new></phrase>
+  
+  <!-- AUTH FORM-->
+  <phrase><orig>Enter your login and password</orig><new>Введіть свої логін та пароль</new></phrase>
+  <phrase><orig>Authorization</orig><new>Авторизація</new></phrase>
+  <phrase><orig>Language</orig><new>Мова</new></phrase>
+  <phrase><orig>Remember password</orig><new>Зберегти пароль</new></phrase>
+  <phrase><orig>Authorize</orig><new>Авторизуватись</new></phrase>
+  <phrase><orig>Choose project!</orig><new>Виберіть проект!</new></phrase>
+  <phrase><orig>Check your login and password!</orig><new>Перевірте дані!</new></phrase>
+
+  <!-- SETTINGS FORM -->
+  <phrase><orig>Settings</orig><new>Налаштування програми</new></phrase>
+  <phrase><orig>Common</orig><new>Загальні</new></phrase>
+  <phrase><orig>Detailed</orig><new>Детальні</new></phrase>
+  <phrase><orig>Pro mode</orig><new>Проф. режим</new></phrase>
+  <phrase><orig>Default</orig><new>Повернути стандартні</new></phrase>
+  
+  <phrase><orig>Updates</orig><new>Оновлення</new></phrase>
+  <phrase><orig>Real-time changes</orig><new>Моніторинг свіжих</new></phrase>
+  <phrase><orig>Pages</orig><new>Сторінка</new></phrase>
+  <phrase><orig>Check updates every launch</orig><new>Перевіряти оновлення при запуску</new></phrase>
+  <phrase><orig>Grant the ability to check the existence of pages</orig><new>Надавати можливість перевірки сторінок на існування</new></phrase>
+  <phrase><orig>Authomatically scroll page to the first difference</orig><new>Автоматично прокручувати сторінку до змін</new></phrase>
+  <phrase><orig>Control the state of </orig><new>Оновлювати/слідкувати за останніми</new></phrase>
+  <phrase><orig>recent edits</orig><new>правками</new></phrase>
+  <phrase><orig>Diff style</orig><new>Оформленя дифу</new></phrase>
+  <phrase><orig>New///Old</orig><new>Нове///Старе</new></phrase>
+  
+  <phrase><orig>Reviewing</orig><new>Патрулювання</new></phrase>
+  <phrase><orig>Buffers</orig><new>Налаштування буферів</new></phrase>
+  <phrase><orig>Skip articles with no difference between current and stable versions</orig><new>Пропускати сторінки з нульовою різницею між стабільною і поточною версіями</new></phrase>
+  <phrase><orig>Apply only to this project</orig><new>Використовувати лише для цього проекту</new></phrase>
+  <phrase><orig>Custom review summary (leave empty if you want to use the default one)</orig><new>Власний коментар до патрулювання (залиште порожнім, якщо бажаєте\r\n використати стандартний для вибраної мови)</new></phrase>
+  <phrase><orig>Custom reject summary (similarly; {0} stands for the revision number)</orig><new>Власний коментар до відхилення правки (аналогічно)\r\n{0} - версія, до якої здійснюється повернення</new></phrase>
+  <phrase><orig>Preload data for</orig><new>Підвантажувати дані для</new></phrase>
+  <phrase><orig>In real-time changes mode preload for</orig><new>У режимі моніторингу свіжих для</new></phrase>
+  <phrase><orig>Preload differences for</orig><new>Підвантажувати дифи для</new></phrase>
+  <phrase><orig>articles</orig><new>сторінок</new></phrase>
+  <phrase><orig>Revision list</orig><new>Список версій</new></phrase>
+  <phrase><orig>Delay between choosing revisions and displaying difference</orig><new>Затримка після вибору правок для показу їх різниці</new></phrase>
+  <phrase><orig>(ms, 1s = 1000ms)</orig><new>(в мс, 1 с = 1000 мс)</new></phrase>
+  
+  <phrase><orig>Check the preloading data buffer size!</orig><new>Неправильно введено розмір буферу для підвантаження даних!</new></phrase>
+  <phrase><orig>Check the size of real-time changes buffer!</orig><new>Неправильно введено розмір буферу для підвантаження даних для моніторингу свіжих!</new></phrase>
+  <phrase><orig>Check the size of diffs buffer!</orig><new>Неправильно введено розмір буфера для підвантаження дифів!</new></phrase>
+  <phrase><orig>Check the recent changes number!</orig><new>Неправильно введено кількість «свіжих» правок!</new></phrase>
+  <phrase><orig>Your custom summary is too long!</orig><new>Занадто довгий користувацький коментар!</new></phrase>
+  <phrase><orig>Check the delay length number!</orig><new>Неправильно введено розмір затримки після вибору правок!</new></phrase>
+  
+  <!-- STREAM CONFIGURATION FORM -->
+  <phrase><orig>Stream configuration</orig><new>Налаштування потоку правок</new></phrase>
+  <phrase><orig>Authomatically switch to the pro mode when needed</orig><new>У складних випадках переходити в проф. режим</new></phrase>  
+  <phrase><orig>Namespaces</orig><new>Простори назв</new></phrase>
+  <phrase><orig>Page types</orig><new>Типи сторінок</new></phrase>
+  <phrase><orig>Maximum diff size</orig><new>Максимальний розмір дифу</new></phrase>
+  <phrase><orig>(bytes; 0 - unlimited)</orig><new>(байти; 0 - необмежений)</new></phrase>
+  <phrase><orig>Work with</orig><new>Працювати з</new></phrase>
+  <phrase><orig>Direction</orig><new>Напрямок</new></phrase>
+  
+  <phrase><orig>Main///File///Template///Category</orig><new>Основний///Файл///Шаблони///Категорії</new></phrase>
+  <phrase><orig>Articles///Redirects</orig><new>Звичайні///Перенаправлення</new></phrase>
+  <phrase><orig>Pages///Differences</orig><new>Сторінками///Дифами</new></phrase>
+  <phrase><orig>Older///Newer///Auto</orig><new>До найстаріших///До найновіших///Авто</new></phrase>
+  
+  <phrase><orig>Real-time changes///Pending pages///Unreviewed pages///Data from a list///User's contribution</orig><new>Моніторинг свіжих правок///Застарілі сторінки///Неперевірені сторінки///Робота зі списком///За внеском користувача</new></phrase>
+  
+  <phrase><orig>In this mode you can check real-time changes being made in the chosen wiki project.\r\nYou can configure your stream in the boxes to the right of this text.\r\nSome other options can be found in the settings form.</orig><new>Цей режим дозволяє в реальному часі відслідковувати всі зміни сторінок.\r\nНалаштувати об'єм даних для роботи Ви можете в налаштуваннях програми.\r\nВибрати параметри потоку правок можна в колонці налаштувань праворуч.</new></phrase>
+  
+  <phrase><orig>How to choose data</orig><new>Як обирати дані</new></phrase>
+  <phrase><orig>The most recent changes</orig><new>Починаючи із найсвіжіших</new></phrase>  
+  <phrase><orig>Starting from a date (UTC)</orig><new>Починаючи із дати (UTC)</new></phrase>
+  <phrase><orig>dd.mm.yyyy (hh:mm:ss)</orig><new>дд.мм.рррр (гг:хх:сс)</new></phrase>
+  <phrase><orig>Starting from a random position</orig><new>З випадкоої позиції</new></phrase>
+  <phrase><orig>The oldest changes</orig><new>Починаючи з найстаріших</new></phrase>
+  <phrase><orig>From your watchlist</orig><new>Зі списку спостереження</new></phrase>
+  <phrase><orig>Category</orig><new>Категорія</new></phrase>
+  <phrase><orig>(without the "Category:" prefix)</orig><new>(префікс «Категорія:» не потрібен)</new></phrase>
+  <phrase><orig>Pending pages are those which were once revieved but since then they have been modificated\r\nand need to be reviewed again.</orig><new>Застарілими називаються сторінки, які вже колись було відпатрульовано,\r\nале їх остання версія не є перевіреною.</new></phrase>
+  
+  <phrase><orig>Alphabetically</orig><new>З початку алфавіту</new></phrase>
+  <phrase><orig>Starting from</orig><new>Починаючи з</new></phrase>
+  <phrase><orig>(prefixes are allowed)</orig><new>(можна префікс)</new></phrase>
+  <phrase><orig>Enter a list of pages you want to work with (page per line).</orig><new>Порядково введіть список статей, з якими хочете працювати.</new></phrase>
+  
+  <phrase><orig>(without the "User:" prefix)</orig><new>(без префікса, тільки ім'я)</new></phrase>
+  <phrase><orig>Full contribution</orig><new>За всім внеском</new></phrase>  
+  <phrase><orig>Beware that in this mode you would have to deal with ARTICLES from user's contribution!\r\nIt means that you'd probably have to review other changes in those articles as well.</orig><new>Увага! Цей режим працює зі СТОРІНКАМИ із внеску користувача.\r\nЦе означає, що перевіряти треба буде усі неперевірені редагування на \r\nсторінках, в число яких входять правки вказаного користувача</new></phrase>
+  
+  <phrase><orig>Choose at least one namespace!</orig><new>Виберіть хоча б один простір назв!</new></phrase>
+  <phrase><orig>Choose at least one page type!</orig><new>Виберіть хоча б один тип сторінок!</new></phrase>
+  <phrase><orig>Check the diff size!</orig><new>Максимальний розмір дифу введено неправильно!</new></phrase>
+  <phrase><orig>Choose what you want to work with!</orig><new>Виберіть те, з чим хочете працювати!</new></phrase>
+  <phrase><orig>You haven't chosen a mode!</orig><new>Виберіть режим!</new></phrase>
+  <phrase><orig>Incorrect date!</orig><new>Неправильно введено дату!</new></phrase>
+  <phrase><orig>Incorrect category!</orig><new>Неправильно введено категорію!</new></phrase>
+  <phrase><orig>Incorrect page name!</orig><new>Неправильно введено назву сторінки!</new></phrase>
+  <phrase><orig>The list is empty!</orig><new>Список порожній!</new></phrase>
+  <phrase><orig>Incorrect user!</orig><new>Неправильно введено користувача!</new></phrase>
+  
+  <!-- OTHER STUFF-->
+  <phrase><orig>Check the existence</orig><new>Перевірити на існування</new></phrase>
+  <phrase><orig>file "{0}" exists</orig><new>файл "{0}" існує</new></phrase>
+  <phrase><orig>file "{0}" does not exist</orig>файл "{0}" не існує<new></new></phrase>
+  <phrase><orig>page "{0}" exists</orig><new>сторінка "{0}" існує</new></phrase>
+  <phrase><orig>page "{0}" does not exist</orig><new>сторінка "{0}" не існує</new></phrase>
+  
+  <phrase><orig>{0} edits have been made by: {1}</orig><new>Правки {0} зробили: {1}</new></phrase>
+  <phrase><orig>Summary</orig><new>Опис редагування</new></phrase>
+  <phrase><orig>Stable revision</orig><new>Стабільна версія</new></phrase>
+  <phrase><orig>First revision</orig><new>Перша версія</new></phrase>
+  <phrase><orig>No noticeable changes</orig><new>Видимих змін немає</new></phrase>
+  <phrase><orig>These revisions are the same</orig><new>Відмінностей між версіями немає</new></phrase>
+  
+  <phrase><orig>Due to internal errors the application did not manage to apply the changes you've made.</orig><new>Через помилку, що виникла (ймовірно, конфлікт редагування) програма не змогла застосувати Ваші зміни.</new></phrase>
+  <phrase><orig>Enter a summary</orig><new>Введіть опис правки</new></phrase>
+  <phrase><orig>Minor change?</orig><new>Незначна зміна?</new></phrase>
+  <phrase><orig>Apply changes</orig><new>Зберегти сторінку</new></phrase>
+  <phrase><orig>Wait.. applying changes..</orig><new>Чекайте.. завантаження змін на сервер</new></phrase>
+  <phrase><orig>The changes have been successfully applied! You can now review the page.</orig><new>Сторінку збережено успішно! Тепер можете її відпатрулювати.</new></phrase>
+
+  <phrase><orig>Error occured while reviewing "{0}"</orig><new>Сталася помилка при спробі відпатрулювати сторінку {0}</new></phrase>
+  
+  <phrase><orig>An update is available!</orig><new>Доступно оновлення!</new></phrase>
+  <phrase><orig>The update will be authomatically downloaded and applied.</orig><new>Його буде завантажено і встановлено автоматично.</new></phrase>
+</dictionary>
